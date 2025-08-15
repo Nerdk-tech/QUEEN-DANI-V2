@@ -7,7 +7,7 @@ cmd({
     pattern: "menu",
     desc: "Show interactive menu system",
     category: "menu",
-    react: "💅",
+    react: "🥹",
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
     try {
@@ -51,7 +51,7 @@ cmd({
                 return await conn.sendMessage(
                     from,
                     {
-                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/tawf5r.png' },
+                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/kkgd2r.png' },
                         caption: menuCaption,
                         contextInfo: contextInfo
                     },
