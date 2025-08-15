@@ -1,4 +1,4 @@
-<h1 align="center"> 𝒬𝓊𝑒𝑒𝓃 𝒟𝒶𝓃𝒾 𝒱2https://img.shields.io/badge/Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=purple&color=purple</h1>
+<h1 align="center"> 𝒬𝓊𝑒𝑒𝓃 𝒟𝒶𝓃𝒾 𝒱2 https://img.shields.io/badge/Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=purple&color=purple</h1>
 
 <p align="center">
   <a href="https://github.com/Nerdk-tech/QUEEN-DANI-V2 https://img.shields.io/badge/Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=purple&color=purple">
